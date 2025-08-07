@@ -26,5 +26,5 @@ Os arquivos iniciais (Html e CSS) foram clonados a partir do repositório [chall
 
 | :---: | :---: | :---: |
 
-O instrutor Jose Gonzalez subiu os arquivos iniciais para a conta da ONE e a aluna Thalita (eu) modificou os arquivos para completar o desafio (challenge). Imagem do site [Freepik](https://www.freepik.com/free-vector/object-carton-box-passed-from-delivers-hands-clients_378122760.htm#fromView=search&page=1&position=1&uuid=b7ca13d9-4371-4979-9b02-09ddde61f2e7&query=hands+box) editada pela Thalita.
-Icones novos do Flaticon [Lixeira - criada por Maxim Basinski Premium](https://www.flaticon.com/free-icons/trash-can) e [Recomeçar Sorteio - criado por Roundicons](https://www.flaticon.com/free-icons/refresh) 
+O instrutor Jose Gonzalez subiu os arquivos iniciais para a conta da ONE e a aluna Thalita (eu) modificou os arquivos de desenvolvimento para completar o desafio (challenge). Imagem do site [Freepik](https://www.freepik.com/free-vector/object-carton-box-passed-from-delivers-hands-clients_378122760.htm#fromView=search&page=1&position=1&uuid=b7ca13d9-4371-4979-9b02-09ddde61f2e7&query=hands+box). Mesma imagem editada pela Thalita.
+Icones novos do Flaticon [Vassoura - criada por Nadiinko](https://www.flaticon.com/free-icon/broom_13941060?term=erase&page=2&position=2&origin=search&related_id=139410) e [Recomeçar Sorteio - criado por Roundicons](https://www.flaticon.com/free-icon/loading_189792?term=loading&page=1&position=1&origin=search&related_id=189792h) 
