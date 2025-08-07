@@ -2,6 +2,7 @@ let amigos = [];
 let nome = document.querySelector('input');
 let botaoAdiciona = document.getElementById('botao-adiciona');
 let indices = [];
+let lista = document.getElementById('listaAmigos'); 
 
 function adicionarAmigo() {
     let amigo = nome.value;
@@ -25,7 +26,6 @@ document.addEventListener('DOMContentLoaded', function () {
 });
 
 function listaAmigos() {
-    let lista = document.getElementById('listaAmigos'); 
     let listaHTML = lista.innerHTML; 
     listaHTML = '';
     
@@ -37,9 +37,9 @@ function listaAmigos() {
     lista.innerHTML = listaHTML; 
 }
 
-function limparListaAmigos() {
-    lista = document.getElementById('listaAmigos');
-    lista.innerHTML = '';
+function limpar(tag) {
+    let content = document.getElementById(tag);
+    content.innerHTML = '';
 }
 
 function sortearAmigo() {
@@ -55,7 +55,7 @@ function sortearAmigo() {
         return;
     } if (indices.length == contadorAmigos) {
         indices = [];
-        amigoSorteado.innerHTML = '<li>Todos já foram sorteados! Atualize a página para uma nova lista e novo sorteio.</li>'
+        amigoSorteado.innerHTML = '<li>Todos já foram sorteados! Atualize a página ou clique em novo sorteio para criar uma nova lista.</li>'
         return;
     } 
 
@@ -77,4 +77,11 @@ function sortearAmigo() {
     // console.log(`indices ${indices}`); // debug para visualizar a lista de indices já sorteados
     // console.log(amigos); // debug para a acompanhar a lista e verificar se corresponde aos indices
     // console.log(`amigo sorteado ${amigos[indiceEscolhido]}`); // debug para o amigo sorteado
+}
+
+function recomecarSorteio() {
+    amigos = [];
+    limpar('resultado');
+    indices = [];
+    lista.innerHTML = '';
 }
