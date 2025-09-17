@@ -1,5 +1,8 @@
 # Challenge Amigo Secreto - ONE (Oracle Next Education + Alura) Grupo 9
 
+## Link de acesso
+ https://thalitacolofatti.github.io/challenge-amigo-secreto-pt-ONE-G9/
+
 ## Descrição do projeto
 Os arquivos iniciais (Html e CSS) foram clonados a partir do repositório [challenge-amigo-secreto_pt](https://github.com/Oracle-Next-Education/challenge-amigo-secreto_pt) com o objetivo de realizar o desafio proposto nas aulas e mostrar os conhecimentos obtidos no curso da ONE(Oracle + Alura) e das consultas às documentações. 
 
@@ -22,9 +25,7 @@ Os arquivos iniciais (Html e CSS) foram clonados a partir do repositório [chall
 * Melhorar Responsividade.
 
 ## Autores e atribuições
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/62973671?v=4" width=115><br><sub>Thalita Colofatti</sub>](https://github.com/thalitacolofatti) |  [<img loading="lazy" width=115><br><sub>Jose Gonzalez - instrutor da Alura</sub>](https://github.com/joseLatam)
-
-| :---: | :---: | :---: |
+[<img loading="lazy" src="https://avatars.githubusercontent.com/u/62973671?v=4" width=115><br><sub>Thalita Colofatti</sub>](https://github.com/thalitacolofatti) |  [<img loading="lazy" width=115><br><sub>Jose Gonzalez - instrutor da Alura</sub>](https://github.com/joseLatam)
 
 O instrutor Jose Gonzalez subiu os arquivos iniciais para a conta da ONE e a aluna Thalita (eu) modificou os arquivos de desenvolvimento para completar o desafio (challenge). Imagem do site [Freepik](https://www.freepik.com/free-vector/object-carton-box-passed-from-delivers-hands-clients_378122760.htm#fromView=search&page=1&position=1&uuid=b7ca13d9-4371-4979-9b02-09ddde61f2e7&query=hands+box). Mesma imagem editada pela Thalita.
 Icones novos do Flaticon [Vassoura - criada por Nadiinko](https://www.flaticon.com/free-icon/broom_13941060?term=erase&page=2&position=2&origin=search&related_id=139410) e [Recomeçar Sorteio - criado por Roundicons](https://www.flaticon.com/free-icon/loading_189792?term=loading&page=1&position=1&origin=search&related_id=189792h) 
