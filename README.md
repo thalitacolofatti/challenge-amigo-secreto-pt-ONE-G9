@@ -22,7 +22,6 @@ Os arquivos iniciais (Html e CSS) foram clonados a partir do repositório [chall
 
 ## Próximas atualizações 
 * Melhorar a função do sorteio para incluir uma forma de informar quem está sorteando o amigo para que seu nome não seja sorteado;
-* Melhorar Responsividade.
 
 ## Autores e atribuições
 [<img loading="lazy" src="https://avatars.githubusercontent.com/u/62973671?v=4" width=115><br><sub>Thalita Colofatti</sub>](https://github.com/thalitacolofatti) |  [<img loading="lazy" width=115><br><sub>Jose Gonzalez - instrutor da Alura</sub>](https://github.com/joseLatam)
